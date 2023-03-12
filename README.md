@@ -1,0 +1,3 @@
+# RCR TERRAFORM ARCHITECTURE
+
+![](./architecture)
